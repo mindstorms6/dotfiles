@@ -1,0 +1,2 @@
+Host *
+        SmartcardDevice /usr/lib/x86_64-linux-gnu/opensc-pkcs11.so
